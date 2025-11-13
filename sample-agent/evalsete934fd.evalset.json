@@ -1,0 +1,69 @@
+{
+  "eval_set_id": "evalsete934fd",
+  "name": "evalsete934fd",
+  "eval_cases": [
+    {
+      "eval_id": "case2bce94",
+      "conversation": [
+        {
+          "invocation_id": "e-d229b34e-3d9b-4798-9a29-1c4e1597a804",
+          "user_content": {
+            "parts": [
+              {
+                "text": "how many stars are in the sky"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "text": "That's a fantastic question, and the answer is both mind-bogglingly large and surprisingly difficult to pinpoint exactly!\n\nHere's a breakdown of what we know:\n\n*   **Visible to the naked eye:** On a clear, dark night, away from light pollution, you can see about **2,000 to 3,000 stars** at any given time. This is a tiny fraction of the total.\n\n*   **In our Milky Way galaxy:** Our galaxy alone is estimated to contain somewhere between **100 billion and 400 billion stars**.\n\n*   **In the observable universe:** This is where the numbers really explode. Astronomers estimate there are at least **2 trillion galaxies** in the observable universe. If each galaxy has, on average, about 100 billion stars, then the total number of stars in the observable universe is an unfathomably large number, roughly **200,000,000,000,000,000,000,000 (200 sextillion) stars**.\n\n**Why is it so hard to get an exact number?**\n\n*   **Vastness:** The universe is incredibly large, and we can only observe a portion of it.\n*   **Dimness:** Many stars are too faint to be detected by our current technology, even within our own galaxy.\n*   **Dust and gas:** Clouds of dust and gas within galaxies can block our view of distant stars.\n*   **Ongoing discovery:** We are constantly discovering new stars and even new galaxies.\n\n**In summary:**\n\nWhile we can't give you an exact number, it's safe to say there are **more stars in the universe than grains of sand on all the beaches on Earth.** It's a truly awe-inspiring thought!"
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {},
+          "creation_timestamp": 1763008581.266227
+        }
+      ],
+      "session_input": {
+        "app_name": "sample-agent",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1763008605.405348
+    },
+    {
+      "eval_id": "casecfd28d",
+      "conversation": [
+        {
+          "invocation_id": "e-d229b34e-3d9b-4798-9a29-1c4e1597a804",
+          "user_content": {
+            "parts": [
+              {
+                "text": "how many stars are in the sky"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "text": "That's a fantastic question, and the answer is both mind-bogglingly large and surprisingly difficult to pinpoint exactly!\n\nHere's a breakdown of what we know:\n\n*   **Visible to the naked eye:** On a clear, dark night, away from light pollution, you can see about **2,000 to 3,000 stars** at any given time. This is a tiny fraction of the total.\n\n*   **In our Milky Way galaxy:** Our galaxy alone is estimated to contain somewhere between **100 billion and 400 billion stars**.\n\n*   **In the observable universe:** This is where the numbers really explode. Astronomers estimate there are at least **2 trillion galaxies** in the observable universe. If each galaxy has, on average, about 100 billion stars, then the total number of stars in the observable universe is an unfathomably large number, roughly **200,000,000,000,000,000,000,000 (200 sextillion) stars**.\n\n**Why is it so hard to get an exact number?**\n\n*   **Vastness:** The universe is incredibly large, and we can only observe a portion of it.\n*   **Dimness:** Many stars are too faint to be detected by our current technology, even within our own galaxy.\n*   **Dust and gas:** Clouds of dust and gas within galaxies can block our view of distant stars.\n*   **Ongoing discovery:** We are constantly discovering new stars and even new galaxies.\n\n**In summary:**\n\nWhile we can't give you an exact number, it's safe to say there are **more stars in the universe than grains of sand on all the beaches on Earth.** It's a truly awe-inspiring thought!"
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {},
+          "creation_timestamp": 1763008581.266227
+        }
+      ],
+      "session_input": {
+        "app_name": "sample-agent",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1763008669.770692
+    }
+  ],
+  "creation_timestamp": 1763008601.152523
+}

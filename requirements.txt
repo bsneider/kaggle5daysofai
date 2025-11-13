@@ -1,0 +1,4 @@
+google-adk
+kaggle
+jupyter_server
+google-adk[eval]

@@ -1,0 +1,23 @@
+.env
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Notebook metadata & cache
+profile_default/
+ipython_config.py
+
+# Environment files and secrets
+.env
+.env.*
+secrets.*
+*.env
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# System and editor settings
+.DS_Store
+.vscode/
+.idea/
